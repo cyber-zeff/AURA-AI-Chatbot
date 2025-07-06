@@ -1,0 +1,20 @@
+[project]
+name = "aura-prototype"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "cyber-zeff", email = "huzaifashamsi819@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "openai-agents>=0.1.0",
+]
+
+[project.scripts]
+aura-prototype = "aura_prototype:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
