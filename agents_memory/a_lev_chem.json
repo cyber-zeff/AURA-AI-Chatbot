@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "hi"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi! Great to be chatting with you again. Ready to dive into some A-Level chemistry? What's on your mind today? Do you have any questions from our last session, or is there a specific topic you'd like to explore?\n"
+  },
+  {
+    "role": "user",
+    "content": "what was it that we studied last time?"
+  },
+  {
+    "role": "assistant",
+    "content": "Ah yes, good question! To jog our memories, could you remind me which specific course or topic we were focusing on previously? Knowing the subject area (e.g., organic chemistry, physical chemistry, etc.) will help me recall the details of our last discussion.\n\nIf you can't recall that's fine - in that case we can just start something new!\n"
+  }
+]

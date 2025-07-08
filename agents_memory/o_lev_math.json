@@ -30,5 +30,13 @@
   {
     "role": "assistant",
     "content": "Okay, Huzaifa, let's see if I've been paying attention! \ud83d\ude09\n\nYour name is Huzaifa. So far in our conversation, we've discussed:\n\n*   My role as an O-Level Maths tutor.\n*   Your age (19) and that you're just exploring for fun.\n*   A general definition of algebra.\n\nHow did I do? Am I keeping up? \ud83d\ude04\n"
+  },
+  {
+    "role": "user",
+    "content": "hey agent! what was it that we studied the last time?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hey Huzaifa! The last time we chatted, we discussed:\n\n*   My role as an O-Level Maths tutor.\n*   Your age (19) and that you were exploring out of curiosity.\n*   A general definition of algebra.\n\nI hope you are doing well. Do you have any plans on studying maths with me?\n"
   }
 ]
